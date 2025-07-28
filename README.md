@@ -1,3 +1,5 @@
+# 00 Introdução ao trabalho
+## Este repositório reúne atividades da disciplina de Fundamentos de Linguagens de Programação, com base nos conteúdos estudados no material disponivel pelo professor bruno honorato.
 # 01 - Introdução às Linguagens de Programação
 ##  Linha do Tempo (Resumo)
 
