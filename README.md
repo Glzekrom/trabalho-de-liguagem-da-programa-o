@@ -37,6 +37,9 @@
 
     Máquina Virtual: simula um ambiente (ex.: JVM para Java). Um diagrama pode mostrar esses três atuando sobre diferentes linguagens e suas interações com hardware.
 
+    ## diagrama
+    https://bing.com/th/id/BCO.3bf784a9-b7f1-4e14-83c2-cee6b99ca6b7.png
+
    # 3. Descrições Sintáticas e Semânticas
       Linguagem GSM
       Printar("Ola mundo");
@@ -116,11 +119,11 @@ Thread(target=tarefa).start()
 
 # 10. Gerenciamento de Memória
 Linguagem	Tipo de Gerenciamento	Exemplo
-
-C	Manual (malloc/free)	|int* p = malloc(sizeof(int));
-
-Java	Automático (GC)	  |Integer x = new Integer(5);
-
+_______________________________________________________
+|C	Manual (malloc/free)	|int* p = malloc(sizeof(int));|
+|_______________________| _____________________________|
+|Java	Automático (GC)	  |Integer x = new Integer(5);
+___________________________________________________________
 
 # 11. Programação Funcional
 python
@@ -162,5 +165,7 @@ Rust é uma linguagem moderna que foca em:
     Performance comparável ao C++
 
     Excelente para sistemas embarcados e web (via WebAssembly)
+
+    Rust representa no quesito, segurança e desempenho de linguagem de sistemas,porém ela tem falta de definição formal e é complexa.
 
       
