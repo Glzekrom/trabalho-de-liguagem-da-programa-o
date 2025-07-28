@@ -120,9 +120,13 @@ Thread(target=tarefa).start()
 # 10. Gerenciamento de Memória
 Linguagem	Tipo de Gerenciamento	Exemplo
 _______________________________________________________
+
 |C	Manual (malloc/free)	|int* p = malloc(sizeof(int));|
+
 |_______________________| _____________________________|
+
 |Java	Automático (GC)	  |Integer x = new Integer(5);
+
 ___________________________________________________________
 
 # 11. Programação Funcional
